@@ -1,0 +1,25 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Poj3299 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\wuzhihui\AppData\Local\Temp\RSP4B4A.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/Poj3299.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\Data\Code\OJ\Poj3299\Poj3299.cpp"
+]
+Creating command line "cl.exe @C:\Users\wuzhihui\AppData\Local\Temp\RSP4B4A.tmp" 
+<h3>Output Window</h3>
+Compiling...
+Poj3299.cpp
+
+
+
+<h3>Results</h3>
+Poj3299.obj - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
